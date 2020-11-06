@@ -1,0 +1,16 @@
+Locales['fi'] = {
+	['GPS_info'] = 'Uusi työ odottaa sinua ~y~GPS:sän luona',
+	['cancel_mission'] = '~r~Peruutit ~s~työkeikkasi',
+	['pickup'] = 'Paina ~INPUT_CONTEXT~ korjataksesi vian.',
+	['end_service'] = 'Lopeta työvuoro',
+	['take_service'] = 'Aloita työvuoro',
+	['end_service_notif'] = 'Työvuoro ~r~Lopetettu',
+	['take_service_notif'] = 'Työvuoro ~g~Aloitettu',
+	['start_job'] = 'Paina ~b~K ~w~ottaaksesi keikan',
+	['Vehicle_Menu_Title'] = 'Työajoneuvot',
+	['in_vehicle'] = '~r~Sinun pitää olla jalan liikenteessä!',
+	['vehicle_broken'] = '~r~Ajoneuvosi on rikki, korjaa ja jatka työtäsi!',
+	['bad_vehicle'] = 'Voit tallettaa vain ~b~Työajoneuvosi',
+	['not_good_veh'] = '~r~Sinun täytyy olla työajoneuvossasi!',
+	['stop_npc'] = 'Työ ~g~Suoritettu~s~ : Palaa työpaikallesi.',
+}
